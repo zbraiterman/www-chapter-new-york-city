@@ -18,6 +18,7 @@ tags: NYC
 
 ## Upcoming Events
 
+* [OWASP NYC Chapter IAM Summit 2026 Event](https://www.meetup.com/owasp-new-york-city-chapter/events/315378372)
 * ["The Science of Silence: Beyond the Detection Trap" by Christopher Frenz](https://luma.com/jfipvwg9)
 
 ------
