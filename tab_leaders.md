@@ -12,7 +12,7 @@ tags: NYC
 
 ## Guy Osa
 
-
+![](assets/images/guy_osa.png)
 
 -----
 
