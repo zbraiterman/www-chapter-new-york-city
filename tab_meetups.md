@@ -12,7 +12,7 @@ tags: NYC
 ## OWASP New York City Chapter Meetups and Events
 
 
-![OWASP NYC Chapter - Top Meetup Group of 2025](assets/images/top-meetup-group-of-2025.png)
+![OWASP NYC Chapter - Top Meetup Group of 2025](assets/images/top_meetup_group_of_2025.png)
 
 ----------
 
