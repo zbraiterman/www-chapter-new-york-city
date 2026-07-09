@@ -11,8 +11,7 @@ tags: NYC
 
 ## OWASP New York City Chapter Meetups and Events
 
-
-![OWASP NYC Chapter - Top Meetup Group of 2025](assets/images/top-meetup-group-of-2025.png)
+![OWASP New York City Chapter Top Meetup Group of 2025 award](assets/images/top_meetup_group_of_2025.png){: width="200" height="200" loading="lazy" }
 
 ----------
 
@@ -21,7 +20,7 @@ tags: NYC
 * [OWASP NYC Chapter IAM Summit 2026 Event](https://www.meetup.com/owasp-new-york-city-chapter/events/315378372)
 * ["The Science of Silence: Beyond the Detection Trap" by Christopher Frenz](https://luma.com/jfipvwg9)
 
-------
+----------
 
 ## Past Events
 
@@ -71,6 +70,4 @@ tags: NYC
 
 * [All Day DevOps View Party](https://www.meetup.com/owaspnyc/events/265080090/) - Conference view party time slot includes DevSecOps speakers, including Wendy Nather (@wendynather) and Caroline Wong (@CarolineWMWong)
 
-
 * [NYC Cyber Social Q4 Event](https://www.meetup.com/owaspnyc/events/265669510/)
-
