@@ -12,14 +12,14 @@ tags: NYC
 
 ## Guy Osa
 
-![](assets/images/guy_osa.png)
+![Guy Osa, OWASP New York City Chapter Leader](assets/images/guy_osa.png){: width="200" height="200" loading="lazy" }
 
 -----
 
 
 ## Zoe Braiterman
 
-![](assets/images/zoe_braiterman.png)
+![Zoe Braiterman, OWASP New York City Chapter Leader](assets/images/zoe_braiterman.png){: width="200" height="200" loading="lazy" }
 
 Zoe Braiterman is an information security consultant, open source security leader, and cybersecurity advocate specializing in application security, artificial intelligence, and secure distributed systems. She hosts the weekly PurePoint International Consciously Secure Leadership Series and advises emerging cybersecurity companies on security strategy, governance, and enterprise adoption.
 
@@ -36,7 +36,7 @@ A Women Economic Forum honoree and frequent international conference speaker, Zo
 
 ## Carlos Mena
 
-![](assets/images/carlos_mena.png)
+![Carlos Mena, OWASP New York City Chapter Event Coordinator](assets/images/carlos_mena.png){: width="200" height="200" loading="lazy" }
 
 Carlos Mena is a technology leader with more than 30 years of experience across enterprise software, cybersecurity, identity, cloud, and application infrastructure. He currently works with Curity, where he focuses on modern identity, API security, OAuth, OpenID Connect, and secure access patterns for applications, APIs, and emerging AI-driven systems.
 
