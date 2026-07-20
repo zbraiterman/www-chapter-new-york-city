@@ -12,7 +12,7 @@ country: USA
 ---
 ![OWASP New York City Chapter](assets/images/owasp_nyc_logo.png)
 
-## Upcoming Meetings
+### Upcoming Meetings
 
 We schedule our meetings on the OWASP New York [Luma calendar](https://luma.com/owasp-new-york-city) and [Meetup Group](https://www.meetup.com/OWASP-New-York-City-Chapter).
 
@@ -22,4 +22,4 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ------
 
-## Community Resources
+### Community Resources
