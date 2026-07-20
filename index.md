@@ -14,8 +14,12 @@ country: USA
 
 ### Upcoming Meetings
 
-We schedule our meetings on the OWASP New York [Meetup Group](https://www.meetup.com/OWASP-New-York-City-Chapter/) and [Luma calendar](https://luma.com/owasp-new-york-city).
+We schedule our meetings on the OWASP New York [Luma calendar](https://luma.com/owasp-new-york-city) and [Meetup Group](https://www.meetup.com/OWASP-New-York-City-Chapter).
 
 {% include chapter_events.html group=page.meetup-group %}
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+------
+
+## Community Resources
