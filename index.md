@@ -12,6 +12,7 @@ country: USA
 ---
 ![OWASP New York City Chapter](assets/images/owasp_nyc_logo.png)
 
+
 ### Upcoming Meetings
 
 We schedule our meetings on the OWASP New York [Luma calendar](https://luma.com/owasp-new-york-city) and [Meetup Group](https://www.meetup.com/OWASP-New-York-City-Chapter).
@@ -23,3 +24,9 @@ Our meetings are open to the public, and you do not need to be a member to atten
 ------
 
 ### Community Resources
+
+<p>
+  <a href="OWASP_NY_Identity_NHI_Companion.pdf" style="display: inline-block; padding: 0.75rem 1.1rem; border-radius: 0.35rem; background: #1f6f8b; color: #ffffff; font-weight: 700; text-decoration: none; border: 2px solid #0f4c75;">
+    Download the OWASP NY Identity NHI Companion
+  </a>
+</p>
